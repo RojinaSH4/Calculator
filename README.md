@@ -1,4 +1,4 @@
-# Rojina Calculator
+# Calculator
 
 A simple **Windows Forms Calculator** built in C# with basic arithmetic operations and additional functions.
 
@@ -24,4 +24,4 @@ A simple **Windows Forms Calculator** built in C# with basic arithmetic operatio
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YourUsername/Calculator.git
+git clone https://github.com/RojinaSH4/Calculator.git
