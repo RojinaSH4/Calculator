@@ -17,8 +17,8 @@ A simple **Windows Forms Calculator** built in C# with basic arithmetic operatio
 
 ## Screenshots
 
-![Calculator Screenshot](screenshot(134).png)  
-![Calculator Screenshot](screenshot(135).png)
+<img width="309" height="412" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/902cbb9f-bfae-4da9-bef0-e751421ed88f" />
+<img width="304" height="407" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/d85ddd42-a102-4b69-9abf-7888f258da26" />
 
 ## How to Run
 
