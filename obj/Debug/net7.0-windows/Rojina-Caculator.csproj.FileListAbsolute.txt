@@ -1,0 +1,17 @@
+C:\Users\arsha\Documents\Grinding\C#\Rojina-Caculator\bin\Debug\net7.0-windows\Rojina-Caculator.exe
+C:\Users\arsha\Documents\Grinding\C#\Rojina-Caculator\bin\Debug\net7.0-windows\Rojina-Caculator.deps.json
+C:\Users\arsha\Documents\Grinding\C#\Rojina-Caculator\bin\Debug\net7.0-windows\Rojina-Caculator.runtimeconfig.json
+C:\Users\arsha\Documents\Grinding\C#\Rojina-Caculator\bin\Debug\net7.0-windows\Rojina-Caculator.dll
+C:\Users\arsha\Documents\Grinding\C#\Rojina-Caculator\bin\Debug\net7.0-windows\Rojina-Caculator.pdb
+C:\Users\arsha\Documents\Grinding\C#\Rojina-Caculator\obj\Debug\net7.0-windows\Rojina_Caculator.Form1.resources
+C:\Users\arsha\Documents\Grinding\C#\Rojina-Caculator\obj\Debug\net7.0-windows\Rojina-Caculator.csproj.GenerateResource.cache
+C:\Users\arsha\Documents\Grinding\C#\Rojina-Caculator\obj\Debug\net7.0-windows\Rojina-Caculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsha\Documents\Grinding\C#\Rojina-Caculator\obj\Debug\net7.0-windows\Rojina-Caculator.AssemblyInfoInputs.cache
+C:\Users\arsha\Documents\Grinding\C#\Rojina-Caculator\obj\Debug\net7.0-windows\Rojina-Caculator.AssemblyInfo.cs
+C:\Users\arsha\Documents\Grinding\C#\Rojina-Caculator\obj\Debug\net7.0-windows\Rojina-Caculator.csproj.CoreCompileInputs.cache
+C:\Users\arsha\Documents\Grinding\C#\Rojina-Caculator\obj\Debug\net7.0-windows\Rojina-Caculator.dll
+C:\Users\arsha\Documents\Grinding\C#\Rojina-Caculator\obj\Debug\net7.0-windows\refint\Rojina-Caculator.dll
+C:\Users\arsha\Documents\Grinding\C#\Rojina-Caculator\obj\Debug\net7.0-windows\Rojina-Caculator.pdb
+C:\Users\arsha\Documents\Grinding\C#\Rojina-Caculator\obj\Debug\net7.0-windows\Rojina-Caculator.genruntimeconfig.cache
+C:\Users\arsha\Documents\Grinding\C#\Rojina-Caculator\obj\Debug\net7.0-windows\ref\Rojina-Caculator.dll
+C:\Users\arsha\Documents\Grinding\C#\Rojina-Caculator\obj\Debug\net7.0-windows\Rojina_Caculator.Properties.Resources.resources
