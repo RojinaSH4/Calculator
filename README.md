@@ -3,7 +3,7 @@
 A simple **Windows Forms Calculator** built in C# with basic arithmetic operations and additional functions.
 
 ## Features
-
+ 
 - Basic arithmetic: `+`, `-`, `*`, `/`
 - Advanced operations: 
   - Square (`x²`) and Cube (`x³`)
