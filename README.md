@@ -24,4 +24,4 @@ A simple **Windows Forms Calculator** built in C# with basic arithmetic operatio
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YourUsername/Rojina_Calculator.git
+git clone https://github.com/YourUsername/Calculator.git
