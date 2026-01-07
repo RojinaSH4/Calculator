@@ -25,3 +25,6 @@ A simple **Windows Forms Calculator** built in C# with basic arithmetic operatio
 1. Clone this repository:
 ```bash
 git clone https://github.com/RojinaSH4/Calculator.git
+
+## Notes
+This project was created for learning purposes and to showcase my C#.
